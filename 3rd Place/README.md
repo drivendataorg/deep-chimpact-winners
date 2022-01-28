@@ -103,7 +103,7 @@ Run training
 ============
 
 ```
-cd $HOME/solution
+cd $HOME/3rd\ Place
 bash prepare_training.sh
 bash run_training.sh
 ```
