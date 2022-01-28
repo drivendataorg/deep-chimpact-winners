@@ -1,0 +1,17 @@
+tensorflow==2.4.1
+tensorflow-addons==0.12.1
+numpy==1.19.5
+pandas==1.2.4
+matplotlib==3.4.2
+opencv-python==4.5.2.54
+opencv-python-headless==4.5.2.54
+PyYAML>=5.3.1
+scipy==1.6.3
+tqdm==4.61.1
+seaborn==0.11.1
+efficientnet==1.1.1
+keras-cv-attention-models==1.0.22
+keras-efficientnet-v2==1.1.5
+scikit-learn==1.0
+ffmpeg-python==0.2.0
+joblib==1.0.1
