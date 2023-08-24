@@ -13,7 +13,7 @@ However, getting distances from camera trap footage currently entails an extreme
 
 ## What's in this Repository
 
-This repository contains code from winning competitors in the [Deep Chimpact: Depth Estimation for Wildlife Conservation](https://www.drivendata.org/competitions/82/competition-wildlife-video-depth-estimation/page/390/) DrivenData challenge. Additional solution details can be found in the `reports` folder inside the directory for each submission. Model scores represent [mean absolute error](https://www.drivendata.org/competitions/82/competition-wildlife-video-depth-estimation/page/391/#metric).
+This repository contains code from winning competitors in the [Deep Chimpact: Depth Estimation for Wildlife Conservation](https://www.drivendata.org/competitions/82/competition-wildlife-video-depth-estimation/page/390/) DrivenData challenge. Code for all winning solutions are open source under the MIT License. Additional solution details can be found in the `reports` folder inside the directory for each submission. Model scores represent [mean absolute error](https://www.drivendata.org/competitions/82/competition-wildlife-video-depth-estimation/page/391/#metric).
 
 **Winning code for other DrivenData competitions is available in the [competition-winners repository](https://github.com/drivendataorg/competition-winners).**
 
